@@ -56,7 +56,6 @@ if 5 in suit_counts.values():
     print("🎉 Congratulations! You got a Flush!")
     hand_found = True
 
-# Straight
 value_map = {
     "ACE": 1,
     "2": 2, "3": 3, "4": 4, "5": 5,
@@ -69,6 +68,7 @@ value_map = {
 
 numeric_values = sorted(value_map[value] for value in values)
 
+# Straight
 is_straight = True
 for i in range(len(numeric_values) - 1):
     if numeric_values[i] + 1 != numeric_values[i + 1]:
