@@ -1,0 +1,15 @@
+N	53.3397	-6.23773	D422	04 Feb 2026	D422\nGrand Canal Dock to Hazelhatch\nExpected Departure 19:46	Southbound
+N	53.3464	-6.29461	D222	04 Feb 2026	D222\nDublin Heuston to Portlaoise\nExpected Departure 19:45	To Portlaoise
+N	53.3531	-6.24591	D933	04 Feb 2026	D933\nDublin Connolly to Maynooth\nExpected Departure 19:47	Northbound
+R	0	0	D421	04 Feb 2026	D421\n19:10 - Grand Canal Dock to Hazelhatch (-4 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	Southbound
+R	0	0	D537	04 Feb 2026	D537\n19:30 - Mallow to Cobh (0 mins late)\nDeparted Killarney Junction next stop Cork	To Cobh
+R	53.2469	-6.66386	D221	04 Feb 2026	D221\n19:08 - Dublin Heuston to Portlaoise (-1 mins late)\nArrived Sallins next stop Newbridge	To Portlaoise
+R	53.3755	-6.33135	D325	04 Feb 2026	D325\n19:25 - Docklands to M3 Parkway (1 mins late)\nDeparted Ashtown next stop Navan Road Parkway	Northbound
+R	53.3816	-6.37149	D932	04 Feb 2026	D932\n19:17 - Dublin Connolly to Maynooth (4 mins late)\nDeparted Castleknock next stop Coolmine	Northbound
+R	53.4032	-6.14839	D831	04 Feb 2026	D831\n19:19 - Grand Canal Dock to Drogheda (0 mins late)\nArrived Clongriffin next stop Malahide	To Drogheda
+R	53.523	-7.34608	D930	04 Feb 2026	D930\n18:16 - Dublin Connolly to Longford (1 mins late)\nDeparted Mullingar next stop Edgeworthstown	Northbound
+R	53.5741	-6.11933	D830	04 Feb 2026	D830\n18:59 - Grand Canal Dock to Drogheda (1 mins late)\nArrived Skerries next stop Balbriggan	To Drogheda
+T	53.0371	-7.30086	D220	04 Feb 2026	D220\n18:25 - Dublin Heuston to Portlaoise(-3 mins late)\nTERMINATED Portlaoise at 19:36	To Portlaoise
+T	53.4349	-6.46898	D324	04 Feb 2026	D324\n18:55 - Docklands to M3 Parkway(1 mins late)\nTERMINATED M3 Parkway at 19:33	Northbound
+T	53.7243	-7.79574	D925	04 Feb 2026	D925\n17:09 - Grand Canal Dock to Longford(-1 mins late)\nTERMINATED Longford at 19:38	To Longford
+T	54.0007	-6.41291	D828	04 Feb 2026	D828\n17:59 - Grand Canal Dock to Dundalk(2 mins late)\nTERMINATED Dundalk at 19:39	To Dundalk
