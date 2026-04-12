@@ -11,6 +11,8 @@
         # Straight
         # Flush (all same suit)
 
+# The program then displays a message depending on the 5 cards drawn
+
 import requests
 from collections import Counter
 
