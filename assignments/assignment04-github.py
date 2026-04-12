@@ -1,4 +1,9 @@
+# Author: Philip Cullen
 # assignment04-github.py
+
+# This program takes file from a repository and replace each instance of the word "Andrew" with "Philip"
+# The repository is located in an encrypted file and therefore an API key is required to access the files within the repository
+# The API key is stored within a file labelled config
 
 from github import Github, Auth
 from config import config as cfg  # API key is stored securely here
